@@ -15,7 +15,6 @@ public class IfExample1 {
 			System.out.println("학교 nono");
 		}
 		
-		
 		//gender 변수값이 f면 여성, 아니면 남성 출력
 		
 		char gender = 'f';

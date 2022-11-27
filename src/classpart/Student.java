@@ -19,7 +19,6 @@ public class Student {
 		studentName = name;
 	}
 	
-	
 	public static void main(String[] args) {
 		Student studentAhn = new Student();
 		studentAhn.studentName = "안연수";

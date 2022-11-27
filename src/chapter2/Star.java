@@ -23,7 +23,6 @@ public class Star {
 			starCount+=2;
 			System.out.println();
 		}
-
 	}
 
 }

@@ -16,7 +16,6 @@ public class OperationEx1 {
 		System.out.println(avgScore);
 		
 		
-		
 		int gameScore = 150;
 		int lastScore1 = ++gameScore;
 		int lastScore2 = --gameScore;

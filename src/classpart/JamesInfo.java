@@ -20,5 +20,4 @@ public class JamesInfo {
 		System.out.println("결혼 여부 :" + person.married);
 		System.out.println("자녀 수 :" + person.children);
 	}
-
 }

@@ -19,5 +19,4 @@ public class Taxi {
 	System.out.println(companyName + " 택시 수입은 " + money + "입니다.");
 	}
 
-
 }

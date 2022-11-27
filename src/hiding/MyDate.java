@@ -87,4 +87,5 @@ public class MyDate {
 			return "유효하지 않은 날짜입니다.";
 		}
 	}
+	
 }

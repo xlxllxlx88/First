@@ -13,5 +13,4 @@ public class StudentTest {
 		System.out.println(studentLee.getStudentName());
 		
 	}
-
 }

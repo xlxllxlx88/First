@@ -13,7 +13,6 @@ public class While {
 		
 		System.out.println("합" + sum);
 		
-		
 		//for문
 		int i;
 		
@@ -28,9 +27,6 @@ public class While {
 		for (j = 1; j <= 10; j++) {
 			System.out.println("안녕" + j);
 		}
-		
-		
-		
 		
 		
 	}

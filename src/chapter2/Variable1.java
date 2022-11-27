@@ -14,5 +14,4 @@ public class Variable1 {
 		System.out.println("level = " + level2);
 		
 	}
-
 }

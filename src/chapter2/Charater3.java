@@ -19,7 +19,6 @@ public class Charater3 {
 		System.out.println(dnum);
 		System.out.println(fnum);
 		
-		
 		double dnum1 =1;
 		
 		for(int i = 0; i < 10000; i++) {

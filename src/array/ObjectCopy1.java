@@ -35,5 +35,4 @@ public class ObjectCopy1 {
 			bookArray2[i].showBookInfo();   // bookArray1 과 다른 내용으로 출력됨
 		}
 	}
-
 }

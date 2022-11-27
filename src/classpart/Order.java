@@ -26,5 +26,4 @@ public class Order {
 		System.out.println("주문 상품 번호: " + order.prdtNo);
 		System.out.println("배송 주소: " + order.address);
 	}
-
 }

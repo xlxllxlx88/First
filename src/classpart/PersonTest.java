@@ -18,7 +18,6 @@ public class PersonTest {
 		System.out.println("키 :" + personTest2.height);
 		System.out.println("몸무게 :" + personTest2.weight);
 		
-		
 		/*
 		 * 객체 : 어떤 대상
 		 * 클래스 : 객체를 프로그래밍하기 위한 코드

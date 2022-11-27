@@ -12,5 +12,4 @@ public class HelloJava {
 		System.out.println("hello, java");
 
 	}
-
 }

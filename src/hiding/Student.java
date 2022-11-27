@@ -15,5 +15,4 @@ public class Student {
 		this.studentName = name;
 
 	}
-
 }

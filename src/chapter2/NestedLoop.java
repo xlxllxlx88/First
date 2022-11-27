@@ -15,7 +15,6 @@ public class NestedLoop {
 			 }
 		 }
 		 
-		 
 		 //홀수만 더하기
 		 
 		 int total = 0;

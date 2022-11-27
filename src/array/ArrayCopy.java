@@ -12,5 +12,4 @@ public class ArrayCopy {
 			System.out.println(array2[i]);
 		}
 	}
-
 }

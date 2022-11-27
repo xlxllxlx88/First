@@ -22,5 +22,4 @@ public class TakeTrans {
 	studentEdward.showInfo(); 
 	taxi.showInfo();
 	}
-
 }

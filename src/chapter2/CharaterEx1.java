@@ -17,5 +17,4 @@ public class CharaterEx1 {
 		System.out.println("정수값에 해당하는 문자출력 : " + (char)ch3);
 
 	}
-
 }

@@ -8,7 +8,6 @@ public class BooleanEx {
 		
 		System.out.println(isMarried);
 		
-		
 	}
 
 }

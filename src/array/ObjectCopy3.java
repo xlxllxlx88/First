@@ -14,5 +14,4 @@ public class ObjectCopy3 {
 			bookArray2[i].showBookInfo();
 		}
 	}
-
 }

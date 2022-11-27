@@ -19,5 +19,4 @@ public class Student1 {
 	public void setStudentName(String name) {
 		studentName = name;
 	}
-
 }

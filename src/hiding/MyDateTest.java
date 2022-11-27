@@ -8,4 +8,5 @@ public class MyDateTest {
 		MyDate date2 = new MyDate(29, 2, 2022);
 		System.out.println(date2.isValid());
 	}
+	
 }

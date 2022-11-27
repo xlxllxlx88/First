@@ -16,5 +16,4 @@ public class ArrayTest3 {
 		}
 
 	}
-
 }

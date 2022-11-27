@@ -19,5 +19,4 @@ public class BookArray2 {
 			System.out.println(library[i]);
 		}
 	}
-
 }

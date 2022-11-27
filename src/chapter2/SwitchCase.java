@@ -37,5 +37,4 @@ public class SwitchCase {
 		}
 		System.out.println(f + "층은 " + s + "입니다.");
 	}
-
 }
